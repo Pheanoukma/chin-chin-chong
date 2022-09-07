@@ -16,8 +16,8 @@ print(banner)
 print(Fore.RED+"This is a test program for pro ppl like me B) ")
 
 Black = [ " Your hairline is bigger than the entire world", " ,Your dad left you", " ,I heared u got no bitches", " ,Your mother wishes to abort you", " ,Ya dick smoller than ur mom's"]
-bruh = input("")
-print(random.choice(bruh)+Black)
+bruh = input("Enter da shit now black : ")
+print(bruh+random.choice(Black))
 if option == 69:
     print("you've cracked the code, Good luck for you!!")
     banner = """
